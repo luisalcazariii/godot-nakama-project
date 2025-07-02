@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://y30x3k50akqv"]
+
+[ext_resource type="Script" uid="uid://drx3xekjpfp2v" path="res://scripts/network/nakama_connection.gd" id="1_tsvb0"]
+
+[node name="Node" type="Node"]
+script = ExtResource("1_tsvb0")
